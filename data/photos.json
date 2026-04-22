@@ -1,0 +1,352 @@
+[
+  {
+    "id": "builtin-ting-pan-piao-yi",
+    "src": "images/亭畔飘逸.JPG",
+    "title": "亭畔飘逸",
+    "category": "古风",
+    "tags": [
+      "动态",
+      "飘逸",
+      "气质"
+    ],
+    "note": "突出身段和动态表现。",
+    "builtin": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "builtin-ting-ting-yu-li",
+    "src": "images/亭亭玉立.JPG",
+    "title": "亭亭玉立",
+    "category": "古风",
+    "tags": [
+      "庭院",
+      "形体",
+      "古典"
+    ],
+    "note": "适合展示端庄、安静、古典人物气质。",
+    "builtin": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "builtin-ting-tai-liu-se",
+    "src": "images/亭台柳色.JPG",
+    "title": "亭台柳色",
+    "category": "古风",
+    "tags": [
+      "柳色",
+      "外景",
+      "柔和"
+    ],
+    "note": "偏环境氛围感，可用于展示整体气质。",
+    "builtin": true,
+    "sortOrder": 3
+  },
+  {
+    "id": "builtin-ting-qian-jia-ren",
+    "src": "images/亭前佳人.JPG",
+    "title": "亭前佳人",
+    "category": "古风",
+    "tags": [
+      "亭台",
+      "人物",
+      "见组"
+    ],
+    "note": "适合展示正面人物状态和镜头表现力。",
+    "builtin": true,
+    "sortOrder": 4
+  },
+  {
+    "id": "builtin-gu-yun-jia-ren",
+    "src": "images/古韵佳人.JPG",
+    "title": "古韵佳人",
+    "category": "写真",
+    "tags": [
+      "古韵",
+      "人物",
+      "特写"
+    ],
+    "note": "适合展示细腻表情和人物质感。",
+    "builtin": true,
+    "sortOrder": 5
+  },
+  {
+    "id": "builtin-chun-ri-ni-nan",
+    "src": "images/春日呢喃.JPG",
+    "title": "春日呢喃",
+    "category": "春日",
+    "tags": [
+      "花景",
+      "温柔",
+      "外景"
+    ],
+    "note": "画面柔和，适合甜美、青春类角色参考。",
+    "builtin": true,
+    "sortOrder": 6
+  },
+  {
+    "id": "builtin-chun-ri-you-meng",
+    "src": "images/春日幽梦.JPG",
+    "title": "春日幽梦",
+    "category": "春日",
+    "tags": [
+      "梦感",
+      "花海",
+      "氛围"
+    ],
+    "note": "适合氛围型展示页首屏推荐。",
+    "builtin": true,
+    "sortOrder": 7
+  },
+  {
+    "id": "builtin-chun-feng-han-xiao",
+    "src": "images/春风含笑.JPG",
+    "title": "春风含笑",
+    "category": "春日",
+    "tags": [
+      "笑容",
+      "亲和",
+      "自然"
+    ],
+    "note": "适合展示亲和力和上镜感。",
+    "builtin": true,
+    "sortOrder": 8
+  },
+  {
+    "id": "builtin-liu-ting-you-si",
+    "src": "images/柳亭幽思.JPG",
+    "title": "柳亭幽思",
+    "category": "古风",
+    "tags": [
+      "柳亭",
+      "情绪",
+      "沉静"
+    ],
+    "note": "适合偏情绪化、内敛角色参考。",
+    "builtin": true,
+    "sortOrder": 9
+  },
+  {
+    "id": "builtin-liu-se-ru-hua",
+    "src": "images/柳色如画.JPG",
+    "title": "柳色如画",
+    "category": "写真",
+    "tags": [
+      "画面感",
+      "外景",
+      "清新"
+    ],
+    "note": "整体色调清爽，适合展示镜头氛围。",
+    "builtin": true,
+    "sortOrder": 10
+  },
+  {
+    "id": "builtin-liu-se-qing-ying",
+    "src": "images/柳色轻盈.JPG",
+    "title": "柳色轻盈",
+    "category": "写真",
+    "tags": [
+      "轻盈",
+      "身段",
+      "外景"
+    ],
+    "note": "适合强调肢体线条和灵动状态。",
+    "builtin": true,
+    "sortOrder": 11
+  },
+  {
+    "id": "builtin-tao-li-chun-feng",
+    "src": "images/桃李春风.JPG",
+    "title": "桃李春风",
+    "category": "春日",
+    "tags": [
+      "桃花",
+      "春色",
+      "自然"
+    ],
+    "note": "适合青春、甜美、轻古风方向展示。",
+    "builtin": true,
+    "sortOrder": 12
+  },
+  {
+    "id": "builtin-li-hua-chun-se",
+    "src": "images/梨花春色.JPG",
+    "title": "梨花春色",
+    "category": "春日",
+    "tags": [
+      "梨花",
+      "轻柔",
+      "外景"
+    ],
+    "note": "适合展示干净清透的镜头风格。",
+    "builtin": true,
+    "sortOrder": 13
+  },
+  {
+    "id": "builtin-ying-hu-chun-xiao",
+    "src": "images/樱湖春晓.JPG",
+    "title": "樱湖春晓",
+    "category": "春日",
+    "tags": [
+      "樱花",
+      "湖边",
+      "氛围"
+    ],
+    "note": "环境占比更高，适合展示整体画面层次。",
+    "builtin": true,
+    "sortOrder": 14
+  },
+  {
+    "id": "builtin-shui-an-jia-ren",
+    "src": "images/水岸佳人.JPG",
+    "title": "水岸佳人",
+    "category": "外景",
+    "tags": [
+      "水岸",
+      "人物",
+      "气质"
+    ],
+    "note": "可用于展示偏文艺、安静的角色状态。",
+    "builtin": true,
+    "sortOrder": 15
+  },
+  {
+    "id": "builtin-hu-pan-qian-ying",
+    "src": "images/湖畔倩影.JPG",
+    "title": "湖畔倩影",
+    "category": "外景",
+    "tags": [
+      "湖边",
+      "倩影",
+      "镜头感"
+    ],
+    "note": "强调人物和环境之间的关系。",
+    "builtin": true,
+    "sortOrder": 16
+  },
+  {
+    "id": "builtin-zhu-ting-qian-ying",
+    "src": "images/竹亭倩影.JPG",
+    "title": "竹亭倩影",
+    "category": "古风",
+    "tags": [
+      "竹亭",
+      "古典",
+      "端庄"
+    ],
+    "note": "适合展示古装人物稳定状态。",
+    "builtin": true,
+    "sortOrder": 17
+  },
+  {
+    "id": "builtin-fen-dai-hua-ying",
+    "src": "images/粉黛花影.JPG",
+    "title": "粉黛花影",
+    "category": "花海",
+    "tags": [
+      "粉黛",
+      "花影",
+      "柔美"
+    ],
+    "note": "突出女性化与柔和画面气质。",
+    "builtin": true,
+    "sortOrder": 18
+  },
+  {
+    "id": "builtin-cui-mu-jia-ren",
+    "src": "images/翠幕佳人.JPG",
+    "title": "翠幕佳人",
+    "category": "竹林",
+    "tags": [
+      "竹林",
+      "层次",
+      "古风"
+    ],
+    "note": "适合展示环境包裹感和人物存在感。",
+    "builtin": true,
+    "sortOrder": 19
+  },
+  {
+    "id": "builtin-cui-zhu-you-meng",
+    "src": "images/翠竹幽梦.JPG",
+    "title": "翠竹幽梦",
+    "category": "竹林",
+    "tags": [
+      "翠竹",
+      "梦感",
+      "角色"
+    ],
+    "note": "适合更偏氛围化的角色感展示。",
+    "builtin": true,
+    "sortOrder": 20
+  },
+  {
+    "id": "builtin-cui-zhu-shen-chu",
+    "src": "images/翠竹深处.JPG",
+    "title": "翠竹深处",
+    "category": "竹林",
+    "tags": [
+      "纵深",
+      "镜头",
+      "情绪"
+    ],
+    "note": "可作为氛围照补充，增加页面层次。",
+    "builtin": true,
+    "sortOrder": 21
+  },
+  {
+    "id": "builtin-hua-hai-ni-shang",
+    "src": "images/花海霓裳.JPG",
+    "title": "花海霓裳",
+    "category": "花海",
+    "tags": [
+      "花海",
+      "造型",
+      "上镜"
+    ],
+    "note": "适合作为吸引注意力的封面型照片。",
+    "builtin": true,
+    "sortOrder": 22
+  },
+  {
+    "id": "builtin-hua-jian-ning-mou",
+    "src": "images/花间凝眸.JPG",
+    "title": "花间凝眸",
+    "category": "花海",
+    "tags": [
+      "凝视",
+      "特写",
+      "情绪"
+    ],
+    "note": "适合展示眼神表现力。",
+    "builtin": true,
+    "sortOrder": 23
+  },
+  {
+    "id": "builtin-hua-jian-xiao-qi",
+    "src": "images/花间小憩.JPG",
+    "title": "花间小憩",
+    "category": "花海",
+    "tags": [
+      "轻松",
+      "自然",
+      "舒展"
+    ],
+    "note": "适合展示自然放松的状态。",
+    "builtin": true,
+    "sortOrder": 24
+  },
+  {
+    "id": "builtin-luo-ying-bin-fen",
+    "src": "images/落樱缤纷.JPG",
+    "title": "落樱缤纷",
+    "category": "春日",
+    "tags": [
+      "落樱",
+      "氛围",
+      "外景"
+    ],
+    "note": "可作为展示页结尾的氛围照片。",
+    "builtin": true,
+    "sortOrder": 25
+  }
+]

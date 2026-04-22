@@ -1,0 +1,25 @@
+{
+  "name": "photo-resume",
+  "version": "1.0.0",
+  "description": "Mobile-first photo resume app with public showcase and admin backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js && node --check script.js"
+  },
+  "keywords": [
+    "photo",
+    "resume",
+    "portfolio",
+    "mobile",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
